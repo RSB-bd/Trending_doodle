@@ -1,7 +1,8 @@
-Description:
+# Trending Doodle
+
 This project is a comprehensive web application that scrapes data from websites, saves it as a CSV file, and displays it in a beautifully formatted, interactive table. Built with Python, Flask, and Bootstrap, it streamlines data collection and visualization, making it ideal for showcasing extracted web data in a modern and professional manner.
 
-Features:
+# Features:
 
     🕷️ Web Scraping: Extract structured data (e.g., product details) from websites using Python and BeautifulSoup.
     📂 CSV Export: Save the scraped data into a CSV file for easy storage and further use.
@@ -13,7 +14,7 @@ Features:
     🎨 Stylish Interface: Rounded corners, hover effects, and a color-coded header row for an elegant user experience.
     📱 Responsive Design: Works seamlessly across devices, from desktops to mobile phones.
 
-Technologies Used:
+# Technologies Used:
 
     Python: For web scraping and backend functionality.
     BeautifulSoup: To parse and extract data from HTML pages.
@@ -21,7 +22,7 @@ Technologies Used:
     Bootstrap 5: For a responsive and modern user interface.
     DataTables: To add search, sorting, filtering, and pagination to the table.
 
-How to Use:
+# How to Use:
 
     Clone this repository.
     Install dependencies using pip install -r requirements.txt.
@@ -30,7 +31,7 @@ How to Use:
     Start the Flask app using python app.py.
     View the scraped data in the browser, interact with it, and export it if needed.
 
-Ideal For:
+# Ideal For:
 
     Data analysts working with web data.
     Developers building scraping pipelines.
